@@ -9,6 +9,13 @@
 [![Read The Docs](https://img.shields.io/readthedocs/desigetspectra)](https://desigetspectra.readthedocs.io/)
 [![Benchmarks](https://img.shields.io/github/actions/workflow/status/LSST/desigetspectra/asv-main.yml?label=benchmarks)](https://LSST.github.io/desigetspectra/)
 
+
+## Access to data
+
+
+[Noirlab Astro Lab Data](https://datalab.noirlab.edu/)
+
+
 This project was automatically generated using the LINCC-Frameworks 
 [python-project-template](https://github.com/lincc-frameworks/python-project-template).
 
