@@ -15,15 +15,15 @@
 #### desiutil
 - https://github.com/desihub/desiutil :
 
-    git clone git@github.com:desihub/desiutil.git
-    cd desiutil
-    pip install .
+       git clone git@github.com:desihub/desiutil.git
+       cd desiutil
+       pip install .
 
 #### desitarget
 - https://github.com/desihub/desitarget :
 
-     git clone git@github.com:desihub/desitarget.git  
-     python setup.py install 
+      git clone git@github.com:desihub/desitarget.git  
+      python setup.py install 
 
 ### Noirlab astroddatalab
  
