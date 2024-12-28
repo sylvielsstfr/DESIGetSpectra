@@ -1,7 +1,7 @@
 # README.md
 
 - author : Sylvie Dagoret-Campagne
-- creation date : 2024-12-24
+- creation date : 2024-12-28
 - affiliation : IJCLab/IN2P3/CNRS
 
 ## What is required to run astrodatalab notebooks on DESI
