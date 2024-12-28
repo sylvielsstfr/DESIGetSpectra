@@ -26,6 +26,12 @@
      python setup.py install 
 
 ### Noirlab astroddatalab
+ 
+
+See documentation here : 
+
+- https://datalab.noirlab.edu
+- https://datalab.noirlab.edu/docs/manual/index.html
 
 #### sparclclient
 
