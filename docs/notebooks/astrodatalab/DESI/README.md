@@ -35,22 +35,22 @@ See documentation here :
 
 #### sparclclient
 
-     pip install sparclclient
+      pip install sparclclient
 
 
 #### datalab
 
 - https://github.com/astro-datalab/datalab
 
-     git clone git@github.com:astro-datalab/datalab.git
-     cd datalab/
+       git clone git@github.com:astro-datalab/datalab.git
+       cd datalab/
 
-     python -m pip install --upgrade pip setuptools
-     python -m pip install build
-     python -m build
+       python -m pip install --upgrade pip setuptools
+       python -m pip install build
+       python -m build
 
      **Successfully built** **astro_datalab-2.24.0.tar.gz** **and** **astro_datalab-2.24.0-py3-none-any.whl**
 
-     pip install dist/astro_datalab-2.24.0-py3-none-any.whl 
+       pip install dist/astro_datalab-2.24.0-py3-none-any.whl 
 
 
